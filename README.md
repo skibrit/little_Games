@@ -1,3 +1,4 @@
 # little_Games
 Personal Projects
-play & enjoy
+A simple human vs human random fairy chess game...............
+
