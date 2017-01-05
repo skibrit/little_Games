@@ -1,0 +1,9 @@
+Snake connect is a simple board game that is similar to connect 4 game. 
+
+Description: It can be played by two person. Each person will have two significant color.They have to connect 9 similar color on any direction. The player who connects 9 color first will be the winner.
+
+Example: First player will get yellow color and the second player will get red color. Each player will have turn constantly until one of them connects 9 color on any direction. There is a special feature.Each player will get a poison at the beginning of the game. They can use that poison at any time on the game to prevent the opposite player from winning.
+
+Snake Connect Game - > Developed by Saidul Amin Nobin
+
+Version : 1.00
