@@ -1,0 +1,5 @@
+Chess Fairy Game -
+
+Version - 1.0.
+
+Developed by - Saidul Amin Nobin
